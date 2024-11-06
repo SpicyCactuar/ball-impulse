@@ -39,7 +39,7 @@ Newer versions of Qt might work correctly, if no breaking changes that affect th
 
 ## Showcase
 
-
+![ball-impulse](https://github.com/user-attachments/assets/b7f360b6-84b3-424a-afc7-d1e4da8a9506)
 
 ## Controls
 
