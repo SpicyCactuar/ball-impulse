@@ -12,7 +12,7 @@ int main(int argc, char** argv) {
         Scene scene;
 
         BallImpulseWidget animationWindow(nullptr, &scene);
-        animationWindow.resize(600, 600);
+        animationWindow.resize(1200, 675);
         animationWindow.show();
 
         return application.exec();
