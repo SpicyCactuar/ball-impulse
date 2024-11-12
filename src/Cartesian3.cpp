@@ -24,8 +24,7 @@ Cartesian3 Cartesian3::operator -(const Cartesian3& other) const {
 }
 
 Cartesian3 Cartesian3::operator *(const float factor) const {
-    Cartesian3 returnVal(x * factor, y * factor, z * factor);
-    return returnVal;
+    return Cartesian3(x * factor, y * factor, z * factor);
 }
 
 Cartesian3 Cartesian3::operator /(const float factor) const {

@@ -10,7 +10,7 @@
 class Matrix4 {
 public:
     // stored in row-major form
-    float coordinates[4][4]{};
+    float coordinates[4][4];
 
     // default to the zero matrix
     Matrix4();
