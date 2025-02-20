@@ -1,10 +1,10 @@
 # Ball Impulse
 
+![ball-impulse](https://github.com/user-attachments/assets/b7f360b6-84b3-424a-afc7-d1e4da8a9506)
+
 Qt application showcasing impulse forces acting on a ball.
 Different terrains can be swapped for different interactions.
 Sphere and dodecahedron ball models are available.
-
-![ball-impulse](https://github.com/user-attachments/assets/b7f360b6-84b3-424a-afc7-d1e4da8a9506)
 
 ## Project Structure
 
